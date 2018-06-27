@@ -1,0 +1,8 @@
+:local(.skeletor) {
+    background-color: Moccasin;
+    flex: 1;
+    padding: 10px;
+    text-align: center;
+    margin: 10px;
+    border-radius: 4px;
+}
