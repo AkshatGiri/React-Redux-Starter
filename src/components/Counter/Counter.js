@@ -3,7 +3,6 @@ import { connect } from 'react-redux';
 import * as actions from '../../actions/';
 
 import styles from './Counter.css';
-import Skeletor from '../common/Skeletor';
 
 class Counter extends Component {
 
